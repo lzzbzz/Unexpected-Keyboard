@@ -7,13 +7,67 @@
 	locale_extra_keys="false"
 >
 	<modmap>
-		<fn a="a" b="ä" />
-		<fn a="A" b="Ä" />
-		<fn a="I" b="Ï" />
-		<fn a="s" b="ß" />
 		<fn a="o" b="ö" />
 		<fn a="O" b="Ö" />
+		<fn a="1" b="1" />
+		<fn a="2" b="2" />
+		<fn a="3" b="3" />
+		<fn a="4" b="4" />
+		<fn a="5" b="5" />
+		<fn a="6" b="6" />
+		<fn a="7" b="7" />
+		<fn a="8" b="8" />
+		<fn a="9" b="9" />
+		<fn a="0" b="0" />
+		<fn a="q" b="q" />
+		<fn a="w" b="w" />
+		<fn a="e" b="e" />
+		<fn a="r" b="r" />
+		<fn a="t" b="t" />
+		<fn a="y" b="y" />
+		<fn a="u" b="ü" />
 		<fn a="U" b="Ü" />
+		<fn a="i" b="ï" />
+		<fn a="I" b="Ï" />
+		<fn a="o" b="ö" />
+		<fn a="O" b="Ö" />
+		<fn a="p" b="p" />
+		<fn a="a" b="ä" />
+		<fn a="A" b="Ä" />
+		<fn a="s" b="ß" />
+		<fn a="d" b="d" />
+		<fn a="f" b="f" />
+		<fn a="g" b="g" />
+		<fn a="h" b="h" />
+		<fn a="j" b="j" />
+		<fn a="k" b="k" />
+		<fn a="l" b="l" />
+		<fn a="z" b="z" />
+		<fn a="x" b="x" />
+		<fn a="c" b="c" />
+		<fn a="v" b="v" />
+		<fn a="b" b="b" />
+		<fn a="n" b="n" />
+		<fn a="m" b="m" />
+		<fn a="€" b="€" />
+		<fn a="'" b="'" />
+		<fn a="(" b="{" />
+		<fn a=")" b="}" />
+		<fn a="[" b="&lt;" />
+		<fn a="]" b="&gt;" />
+		<fn a="^" b="^" />
+		<fn a="_" b="_" />
+		<fn a="-" b="-" />
+		<fn a="," b="," />
+		<fn a="." b="." />
+		<fn a="=" b="=" />
+		<fn a=":" b=":" />
+		<fn a="!" b="!" />
+		<fn a="?" b="?" />
+		<fn a="&quot;" b="&quot;" />
+		<fn a="%" b="%" />
+		<fn a="*" b="*" />
+		<fn a="space" b="space" />
 	</modmap>
   <row>
     <key c="q" n="Q" s="1" nw="" ne="" e="" se="" sw="" w="" />
@@ -37,19 +91,19 @@
     <key c="j" n="J" s="•" nw="" ne="" e="" se="" sw="" w="" />
     <key c="k" n="K" s="'" nw="" ne="" e="" se="" sw="" w="" />
     <key c="l" n="L" s="&quot;" nw="" ne="" e="" se="" sw="" w="" />
-    <key c="\?" w="{" e="}" n="!" s="" nw="" ne="" se="" sw="" />
+    <key c="\?" w="" e="" n="!" s="_" nw="" ne="" se="" sw="" />
   </row>
   <row>
     <key c="z" n="Z" s="^" nw="" ne="" e="" se="" sw="" w="" />
     <key c="x" n="X" s="*" nw="" ne="" e="" se="" sw="" w="" />
     <key c="c" n="C" s="~" nw="" ne="" e="" se="" sw="" w="" />
-    <key c="v" n="V" s="_" nw="" ne="" e="" se="" sw="" w="" />
-    <key c="b" n="B" s="-" nw="" ne="" e="" se="" sw="" w="" />
-    <key c="n" n="N" s="+" nw="" ne="" e="" se="" sw="" w="" />
-    <key c="m" n="M" s="=" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="v" n="V" s="-" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="b" n="B" s="+" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="n" n="N" s="=" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="m" n="M" s="≈" nw="" ne="" e="" se="" sw="" w="" />
     <key c="," w="(" e=")" n="`" s=";" nw="" ne="" se="" sw="" />
     <key c="." w="[" e="]" n="°" s=":" nw="" ne="" se="" sw="" />
-    <key c="/" w="&lt;" e="&gt;" n="\\" nw="" ne="" se="" s="|" sw="" />
+    <key c="/" w="" e="" n="\\" nw="" ne="" se="" s="|" sw="" />
   </row>
   <row>
     <key width="1" c="copy" n="paste" s="" nw="" ne="" e="" se="" sw="" w="" />

@@ -26,6 +26,10 @@ latin_kbdtuf_tr: Missing programming keys, missing: loc esc, loc tab
 latn_colemak: Some keys contain whitespaces, unexpected:  ́
 latn_dvorak: Missing important key, missing: loc capslock
 latn_lzbz_en: Duplicate keys: 
+<<<<<<< HEAD
+=======
+latn_lzbz_en: Layout includes some ASCII punctuation but not all, missing: <, >, {, }
+>>>>>>> temp
 latn_lzbz_en: Layout doesn't define some important keys, missing: delete
 latn_lzbz_en: Layout contains editing keys, unexpected: copy, paste, selectAll
 latn_lzbz_en: Layout contains empty strings, unexpected: 
