@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<keyboard
+	bottom_row="false"
+	width="10"
+	name="lzbz"
+	script="latin"
+	locale_extra_keys="false"
+>
+	<modmap>
+		<fn a="o" b="ö" />
+		<fn a="O" b="Ö" />
+		<fn a="1" b="1" />
+		<fn a="2" b="2" />
+		<fn a="3" b="3" />
+		<fn a="4" b="4" />
+		<fn a="5" b="5" />
+		<fn a="6" b="6" />
+		<fn a="7" b="7" />
+		<fn a="8" b="8" />
+		<fn a="9" b="9" />
+		<fn a="0" b="0" />
+		<fn a="q" b="q" />
+		<fn a="w" b="w" />
+		<fn a="e" b="e" />
+		<fn a="r" b="r" />
+		<fn a="t" b="t" />
+		<fn a="y" b="y" />
+		<fn a="u" b="ü" />
+		<fn a="U" b="Ü" />
+		<fn a="i" b="ï" />
+		<fn a="I" b="Ï" />
+		<fn a="o" b="ö" />
+		<fn a="O" b="Ö" />
+		<fn a="p" b="p" />
+		<fn a="a" b="ä" />
+		<fn a="A" b="Ä" />
+		<fn a="s" b="ß" />
+		<fn a="d" b="d" />
+		<fn a="f" b="f" />
+		<fn a="g" b="g" />
+		<fn a="h" b="h" />
+		<fn a="j" b="j" />
+		<fn a="k" b="k" />
+		<fn a="l" b="l" />
+		<fn a="z" b="z" />
+		<fn a="x" b="x" />
+		<fn a="c" b="c" />
+		<fn a="v" b="v" />
+		<fn a="b" b="b" />
+		<fn a="n" b="n" />
+		<fn a="m" b="m" />
+		<fn a="€" b="€" />
+		<fn a="'" b="'" />
+		<fn a="(" b="{" />
+		<fn a=")" b="}" />
+		<fn a="[" b="&lt;" />
+		<fn a="]" b="&gt;" />
+		<fn a="^" b="^" />
+		<fn a="_" b="_" />
+		<fn a="-" b="-" />
+		<fn a="," b="," />
+		<fn a="." b="." />
+		<fn a="=" b="=" />
+		<fn a=":" b=":" />
+		<fn a="!" b="!" />
+		<fn a="?" b="?" />
+		<fn a="&quot;" b="&quot;" />
+		<fn a="%" b="%" />
+		<fn a="*" b="*" />
+		<fn a="space" b="space" />
+	</modmap>
+  <row>
+    <key c="q" n="Q" s="1" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="w" n="W" s="2" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="e" n="E" s="3" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="r" n="R" s="4" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="t" n="T" s="5" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="y" n="Y" s="6" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="u" n="U" s="7" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="i" n="I" s="8" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="o" n="O" s="9" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="p" n="P" s="0" nw="" ne="" e="" se="" sw="" w="" />
+  </row>
+  <row>
+    <key c="a" n="A" s="\@" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="s" n="S" s="$" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="d" n="D" s="€" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="f" n="F" s="#" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="g" n="G" s="&amp;" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="h" n="H" s="%" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="j" n="J" s="•" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="k" n="K" s="'" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="l" n="L" s="&quot;" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="\?" w="" e="" n="!" s="_" nw="" ne="" se="" sw="" />
+  </row>
+  <row>
+    <key c="z" n="Z" s="^" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="x" n="X" s="*" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="c" n="C" s="~" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="v" n="V" s="-" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="b" n="B" s="+" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="n" n="N" s="=" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="m" n="M" s="≈" nw="" ne="" e="" se="" sw="" w="" />
+    <key c="," w="(" e=")" n="`" s=";" nw="" ne="" se="" sw="" />
+    <key c="." w="[" e="]" n="°" s=":" nw="" ne="" se="" sw="" />
+    <key c="/" w="" e="" n="\\" nw="" ne="" se="" s="|" sw="" />
+  </row>
+  <row>
+    <key width="1" c="copy" n="paste" s="" nw="" ne="" e="" se="" sw="" w="" />
+    <key
+			width="2"
+			c="fn"
+			w=""
+			e=""
+			n="selectAll"
+			s=""
+			nw=""
+			ne=""
+			se=""
+			sw=""
+		/>
+    <key
+			width="4"
+			c="space"
+			w="cursor_left"
+			e="cursor_right"
+			n="cursor_up"
+			s="cursor_down"
+			slider="true"
+			nw=""
+			ne=""
+			se=""
+			sw=""
+		/>
+    <key
+			width="2"
+			c="backspace"
+			w="delete_word"
+			e="forward_delete_word"
+			n=""
+			s=""
+			slider="true"
+			nw=""
+			ne=""
+			se=""
+			sw=""
+		/>
+    <key
+			width="1"
+			c="enter"
+			n="action"
+			s=""
+			nw=""
+			ne=""
+			e=""
+			se=""
+			sw=""
+			w=""
+		/>
+  </row>
+</keyboard>
